@@ -1,0 +1,443 @@
+[{
+        "id": 1,
+        "slug": "iphone-14-promax",
+        "name": "Iphone 14 Promax",
+        "image": {
+            "mobile": "./assets/product-iphone-14-promax/mobile/image-product.jpg",
+            "tablet": "./assets/product-iphone-14-promax/tablet/image-product.png",
+            "desktop": "./assets/product-iphone-14-promax/desktop/image-product.jpg"
+        },
+        "category": "iphone",
+        "categoryImage": {
+            "mobile": "./assets/product-iphone-14-promax/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-iphone-14-promax/tablet/image-category-page-preview.png",
+            "desktop": "./assets/product-iphone-14-promax/desktop/image-category-page-preview.jpg"
+        },
+        "new": true,
+        "price": 1099,
+        "description": "The iPhone 14 Plus comes with 6.7-inch OLED display with 120Hz refresh rate and Apple's improved Bionic A16 processor. On the back there is a Triple camera setup with 48MP main camera.",
+        "features": "Instead of leaving the area unused and intrusive at the top of the display, Apple developed ‌Dynamic Island‌, which brings system-wide alerts, notifications, and system-related operations to the top of the display. You'll notice ‌Dynamic Island‌ fluidly adapt as you use your phone, from listening to music to starting a timer and more. A list of some of the different types of system alerts and notifications ‌Dynamic Island‌ supports straight out of the box.",
+        "includes": [{
+                "quantity": 1,
+                "item": "iPhone 14 Pro Max"
+            },
+            {
+                "quantity": 1,
+                "item": "USB Type-C to Lightning cable"
+            },
+            {
+                "quantity": 2,
+                "item": "Documentation"
+            },
+            {
+                "quantity": 1,
+                "item": "Apple sticker"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-iphone-14-promax/mobile/image-gallery-1.jpg",
+                "tablet": "./assets/product-iphone-14-promax/tablet/image-gallery-1.jpg",
+                "desktop": "./assets/product-iphone-14-promax/desktop/image-gallery-1.jpg"
+            },
+            "second": {
+                "mobile": "./assets/product-iphone-14-promax/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-iphone-14-promax/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-iphone-14-promax/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-iphone-14-promax/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-iphone-14-promax/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-iphone-14-promax/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "slug": "macbook-air-m2",
+        "name": "Macbook air m2",
+        "image": {
+            "mobile": "./assets/product-macbook-air-m2/mobile/image-product.jpg",
+            "tablet": "./assets/product-macbook-air-m2/tablet/image-product.png",
+            "desktop": "./assets/product-macbook-air-m2/desktop/image-product.jpg"
+        },
+        "category": "macbook",
+        "categoryImage": {
+            "mobile": "./assets/product-macbook-air-m2/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-macbook-air-m2/tablet/image-category-page-preview.png",
+            "desktop": "./assets/product-macbook-air-m2/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 1199,
+        "description": "The MacBook Air M2 delivers an unbeatable combo of performance, design and battery life for the price.",
+        "features": "The MacBook Air M2 is a laptop that feels truly worthy of the Air name. Yes, the MacBook Air M1 is good — after all, it helped introduce Apple silicon. It’s just that cramming revolutionary performance in the same old chassis didn’t feel (or look) like a leap forward.",
+        "includes": [{
+                "quantity": 1,
+                "item": "MacBook Air M2"
+            },
+            {
+                "quantity": 1,
+                "item": "30W USB-C Power Adapter (M2 with 8-core GPU)"
+            },
+            {
+                "quantity": 1,
+                "item": "USB-C to MagSafe 3 Cable (2 m)"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-macbook-air-m2/mobile/image-gallery-1.jpg",
+                "tablet": "./assets/product-macbook-air-m2/tablet/image-gallery-1.jpg",
+                "desktop": "./assets/product-macbook-air-m2/desktop/image-gallery-1.jpg"
+            },
+            "second": {
+                "mobile": "./assets/product-macbook-air-m2/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-macbook-air-m2/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-macbook-air-m2/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-macbook-air-m2/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-macbook-air-m2/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-macbook-air-m2/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "slug": "ipad-pro-m2",
+        "name": "Ipad pro m2",
+        "image": {
+            "mobile": "./assets/product-ipad-pro-m2/mobile/image-product.jpg",
+            "tablet": "./assets/product-ipad-pro-m2/tablet/image-product.jpg",
+            "desktop": "./assets/product-ipad-pro-m2/desktop/image-product.jpg"
+        },
+        "category": "ipad",
+        "categoryImage": {
+            "mobile": "./assets/product-ipad-pro-m2/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-ipad-pro-m2/tablet/image-category-page-preview.png",
+            "desktop": "./assets/product-ipad-pro-m2/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 899,
+        "description": "The new iPad Pro will also run on iPadOS 16, with Apple teasing ‘powerful new features’ for the operating system.",
+        "features": "The iPad Pro is Apple's high-end tablet computer. The latest iPad Pro models introduced the M2 chip, Apple Pencil hover, ProRes video recording, Bluetooth 5.3, and Wi-Fi 6E connectivity, adding to existing features like the Thunderbolt port, a Liquid Retina XDR mini-LED display on the larger model, and up to 16GB of RAM and 2TB of storage",
+        "includes": [{
+                "quantity": 1,
+                "item": "IPad Pro M2"
+            },
+            {
+                "quantity": 2,
+                "item": "Documentation"
+            },
+            {
+                "quantity": 1,
+                "item": "20W charger adapter"
+            },
+            {
+                "quantity": 1,
+                "item": "USB-C to C charging cable"
+            },
+            {
+                "quantity": 1,
+                "item": "Apple sticker"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-ipad-pro-m2/mobile/image-gallery-1.png",
+                "tablet": "./assets/product-ipad-pro-m2/tablet/image-gallery-1.png",
+                "desktop": "./assets/product-ipad-pro-m2/desktop/image-gallery-1.png"
+            },
+            "second": {
+                "mobile": "./assets/product-ipad-pro-m2/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-ipad-pro-m2/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-ipad-pro-m2/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-ipad-pro-m2/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-ipad-pro-m2/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-ipad-pro-m2/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "slug": "ipad-10",
+        "name": "iPad 10",
+        "image": {
+            "mobile": "./assets/product-ipad-10/mobile/image-product.jpg",
+            "tablet": "./assets/product-ipad-10/tablet/image-product.jpg",
+            "desktop": "./assets/product-ipad-10/desktop/image-product.jpg"
+        },
+        "category": "ipad",
+        "categoryImage": {
+            "mobile": "./assets/product-ipad-10/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-ipad-10/tablet/image-category-page-preview.jpg",
+            "desktop": "./assets/product-ipad-10/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 499,
+        "description": "The new iPad is available in Blue, Pink, Silver, and Yellow finishes, bringing some vibrant new colors to the lower-cost iPad range. iJustine shared a video unboxing of all of the new colors, providing a first hands-on look at the options in the real world.",
+        "features": "Key new features for the 10th-generation iPad include a larger 10.9-inch display with slimmer bezels, flat edges, the A14 Bionic chip, a USB-C port, a Touch ID power button, a landscape-positioned FaceTime camera, 5G support on cellular models, Wi-Fi 6, and a new two-piece Magic Keyboard Folio accessory with a row of function keys",
+        "includes": [{
+                "quantity": 1,
+                "item": "IPad 10"
+            },
+            {
+                "quantity": 2,
+                "item": "Documentation"
+            },
+            {
+                "quantity": 1,
+                "item": "20W USB-C Power Adapter"
+            },
+            {
+                "quantity": 1,
+                "item": "Lightning to USB-C Cable"
+            },
+            {
+                "quantity": 1,
+                "item": "Apple sticker"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-ipad-10/mobile/image-gallery-1.png",
+                "tablet": "./assets/product-ipad-10/tablet/image-gallery-1.png",
+                "desktop": "./assets/product-ipad-10/desktop/image-gallery-1.png"
+            },
+            "second": {
+                "mobile": "./assets/product-ipad-10/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-ipad-10/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-ipad-10/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-ipad-10/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-ipad-10/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-ipad-10/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "slug": "ipad-air-5",
+        "name": "iPad Air 5",
+        "image": {
+            "mobile": "./assets/product-ipad-air-5/mobile/image-product.jpg",
+            "tablet": "./assets/product-ipad-air-5/tablet/image-product.jpg",
+            "desktop": "./assets/product-ipad-air-5/desktop/image-product.jpg"
+        },
+        "category": "ipad",
+        "categoryImage": {
+            "mobile": "./assets/product-ipad-air-5/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-ipad-air-5/tablet/image-category-page-preview.jpg",
+            "desktop": "./assets/product-ipad-air-5/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 699,
+        "description": "Apple has designed the iPad Air to fit snugly between its budget 10.2-inch iPad, the entry 10.9-inch iPad, and the more expensive iPad Pro lineup. The iPad mini 6 acts as a smaller version of the iPad Air with near-identical features in a tiny package.",
+        "features": "The iPad Air 5 has the M1 processor, 12MP ultra-wide camera with Center Stage, a 5G cellular option, and faster USB-C. It is a big upgrade from the previous model with an all-new color scheme.",
+        "includes": [{
+                "quantity": 1,
+                "item": "iPad Air 5"
+            },
+            {
+                "quantity": 2,
+                "item": "Documentation"
+            },
+            {
+                "quantity": 1,
+                "item": "20W USB‑C Power Adapter"
+            },
+            {
+                "quantity": 1,
+                "item": "USB‑C Charge Cable (1m)"
+            },
+            {
+                "quantity": 1,
+                "item": "Apple sticker"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-ipad-air-5/mobile/image-gallery-1.jpg",
+                "tablet": "./assets/product-ipad-air-5/tablet/image-gallery-1.jpg",
+                "desktop": "./assets/product-ipad-air-5/desktop/image-gallery-1.jpg"
+            },
+            "second": {
+                "mobile": "./assets/product-ipad-air-5/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-ipad-air-5/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-ipad-air-5/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-ipad-air-5/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-ipad-air-5/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-ipad-air-5/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "slug": "iphone-13-promax",
+        "name": "Iphone 13 Promax",
+        "image": {
+            "mobile": "./assets/product-iphone-13-promax/mobile/image-product.jpg",
+            "tablet": "./assets/product-iphone-13-promax/tablet/image-product.png",
+            "desktop": "./assets/product-iphone-13-promax/desktop/image-product.jpg"
+        },
+        "category": "iphone",
+        "categoryImage": {
+            "mobile": "./assets/product-iphone-13-promax/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-iphone-13-promax/tablet/image-category-page-preview.png",
+            "desktop": "./assets/product-iphone-13-promax/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 899,
+        "description": "The iPhone 13 Pro Max’s stellar cameras, 120Hz display and longer battery life add up to a practically perfect phone.",
+        "features": "The iPhone 13 Pro Max’s stellar cameras, 120Hz ProMotion display and longer battery life add up to a practically perfect phone in our testing. The charging could be faster and Touch ID would be nice, but overall this is a beast that can’t be beat.",
+        "includes": [{
+                "quantity": 1,
+                "item": "iPhone 13 Pro Max"
+            },
+            {
+                "quantity": 1,
+                "item": "USB Type-C to Lightning cable"
+            },
+            {
+                "quantity": 2,
+                "item": "Documentation"
+            },
+            {
+                "quantity": 1,
+                "item": "Apple sticker"
+            },
+            {
+                "quantity": 1,
+                "item": "Sim ejector tool"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-iphone-13-promax/mobile/image-gallery-1.jpg",
+                "tablet": "./assets/product-iphone-13-promax/tablet/image-gallery-1.jpg",
+                "desktop": "./assets/product-iphone-13-promax/desktop/image-gallery-1.jpg"
+            },
+            "second": {
+                "mobile": "./assets/product-iphone-13-promax/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-iphone-13-promax/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-iphone-13-promax/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-iphone-13-promax/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-iphone-13-promax/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-iphone-13-promax/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "slug": "iphone-12-promax",
+        "name": "Iphone 12 Promax",
+        "image": {
+            "mobile": "./assets/product-iphone-12-promax/mobile/image-product.jpg",
+            "tablet": "./assets/product-iphone-12-promax/tablet/image-product.png",
+            "desktop": "./assets/product-iphone-12-promax/desktop/image-product.jpg"
+        },
+        "category": "iphone",
+        "categoryImage": {
+            "mobile": "./assets/product-iphone-12-promax/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-iphone-12-promax/tablet/image-category-page-preview.png",
+            "desktop": "./assets/product-iphone-12-promax/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 699,
+        "description": "The iPhone 12 Pro Max is much more than just a big-screen version of the iPhone 12 Pro. With its 6.7-inch display, this is the biggest display ever on an iPhone.",
+        "features": "There are four new iPhone models in the fall lineup, with the iPhone 12 Pro Max standing as the larger of the two pro-level models. This device has a bigger 6.7-inch Super Retina XDR display compared to the iPhone 11 Pro Max. It also has a triple-camera system and LiDAR.",
+        "includes": [{
+                "quantity": 1,
+                "item": "iPhone 12 Pro Max"
+            },
+            {
+                "quantity": 1,
+                "item": "USB Type-C to Lightning cable"
+            },
+            {
+                "quantity": 2,
+                "item": "Documentation"
+            },
+            {
+                "quantity": 1,
+                "item": "Apple sticker"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-iphone-12-promax/mobile/image-gallery-1.jpg",
+                "tablet": "./assets/product-iphone-12-promax/tablet/image-gallery-1.jpg",
+                "desktop": "./assets/product-iphone-12-promax/desktop/image-gallery-1.jpg"
+            },
+            "second": {
+                "mobile": "./assets/product-iphone-12-promax/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-iphone-12-promax/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-iphone-12-promax/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-iphone-12-promax/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-iphone-12-promax/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-iphone-12-promax/desktop/image-gallery-3.jpg"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "slug": "macbook-pro-13",
+        "name": "MacBook Pro 13",
+        "image": {
+            "mobile": "./assets/product-macbook-pro-13/mobile/image-product.jpg",
+            "tablet": "./assets/product-macbook-pro-13/tablet/image-product.png",
+            "desktop": "./assets/product-macbook-pro-13/desktop/image-product.jpg"
+        },
+        "category": "macbook",
+        "categoryImage": {
+            "mobile": "./assets/product-macbook-pro-13/mobile/image-category-page-preview.jpg",
+            "tablet": "./assets/product-macbook-pro-13/tablet/image-category-page-preview.png",
+            "desktop": "./assets/product-macbook-pro-13/desktop/image-category-page-preview.jpg"
+        },
+        "new": false,
+        "price": 1399,
+        "description": "The 13-inch MacBook Pro fits between Apple's entry laptop and high-end pro models. It is the last Apple computer with the Touch Bar and retains the old Intel design. Active cooling and a thicker chassis give this laptop a performance advantage over the M2 MacBook Air, despite using the same processor.",
+        "features": "Since Apple didn't change anything significant about the design or specs beyond the M2 processor, the following features apply to the 2020 and 2022 models. The only other difference is the inclusion of a high-impedance headphone jack in the 2022 model.",
+        "includes": [{
+                "quantity": 1,
+                "item": "MacBook Pro 13"
+            },
+            {
+                "quantity": 1,
+                "item": "90W USB-C Power Adapter "
+            },
+            {
+                "quantity": 1,
+                "item": "USB-C to MagSafe 3 Cable (2 m)"
+            }
+        ],
+        "gallery": {
+            "first": {
+                "mobile": "./assets/product-macbook-pro-13/mobile/image-gallery-1.jpg",
+                "tablet": "./assets/product-macbook-pro-13/tablet/image-gallery-1.jpg",
+                "desktop": "./assets/product-macbook-pro-13/desktop/image-gallery-1.jpg"
+            },
+            "second": {
+                "mobile": "./assets/product-macbook-pro-13/mobile/image-gallery-2.jpg",
+                "tablet": "./assets/product-macbook-pro-13/tablet/image-gallery-2.jpg",
+                "desktop": "./assets/product-macbook-pro-13/desktop/image-gallery-2.jpg"
+            },
+            "third": {
+                "mobile": "./assets/product-macbook-pro-13/mobile/image-gallery-3.jpg",
+                "tablet": "./assets/product-macbook-pro-13/tablet/image-gallery-3.jpg",
+                "desktop": "./assets/product-macbook-pro-13/desktop/image-gallery-3.jpg"
+            }
+        }
+    }
+
+
+]
